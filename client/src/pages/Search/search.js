@@ -31,7 +31,7 @@ function Search() {
               title: result.volumeInfo.title,
               author: result.volumeInfo.authors,
               description: result.volumeInfo.description,
-              image: result.volumeInfo.imageLinks.thumbnail,
+              image: result.volumeInfo.imageLinks?.thumbnail,
               link: result.volumeInfo.infoLink,
             };
             return result;
