@@ -7,7 +7,7 @@
 
   A React-based Google Books Search app. This application uses Node, Express and MongoDB so that users can save books to review or purchase later.
 
-  Click [here](https://secret-bastion-61573.herokuapp.com/) to try out the application
+  Click [here](https://grrazzlle-google-books.herokuapp.com/) to try out the application
 
   ## Table of contents
 
